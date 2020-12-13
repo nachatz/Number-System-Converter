@@ -21,7 +21,7 @@ void Converter::decimal_to_binary() {
     int count = 0;
 
 	// User input
-    cout << "Enter a decimal value: ";
+    cout << "Enter a decimal system value (Unsigned Integer): ";
     cin >> value;
 
 	// Determines how many bits will be needed by dividing the value down to 0

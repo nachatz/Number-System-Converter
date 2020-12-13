@@ -17,7 +17,7 @@ int main()
 	string s;
 
 
-	cout << "Decimal to binary to hexidecimal converter." << endl;
+	cout << "Decimal system to binary system to hexidecimal system converter." << endl;
 
 	while (true) {
 		// Function to begin conversions
